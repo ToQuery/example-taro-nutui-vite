@@ -3,5 +3,6 @@
   "projectname": "example-taro-nutui-vite",
   "setting": {
     "compileHotReLoad": true
-  }
+  },
+  "libVersion": "3.6.6"
 }

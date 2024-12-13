@@ -4,6 +4,7 @@ import {Button, Image, ConfigProvider, TextArea, Dialog, Cell, Grid} from '@nutu
 import enUS from '@nutui/nutui-react-taro/dist/locales/en-US'
 import zhCN from '@nutui/nutui-react-taro/dist/locales/zh-CN'
 import './index.scss'
+
 function Index() {
   const html = `<h1 style="color: red">Wallace is way taller than other reporters.</h1>`
 
